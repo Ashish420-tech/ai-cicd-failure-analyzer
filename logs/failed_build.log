@@ -1,0 +1,19 @@
+Started by GitHub push
+
+Running on Jenkins Agent
+
+Cloning repository...
+
+Checking out revision
+
+Running build...
+
+npm install
+
+npm ERR! code ERESOLVE
+
+npm ERR! unable to resolve dependency tree
+
+Build step 'Execute shell' marked build as failure
+
+Finished: FAILURE
